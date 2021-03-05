@@ -6,3 +6,6 @@ First I had to set different variables for all of the character I wanted to incl
 
 ## The Result
 When the user clicks generate password, it goes through a series of prompts and then outputs a brand new random password for the user.
+
+### link to my deployed site
+https://jared-n2.github.io/My-Password-Generator/
