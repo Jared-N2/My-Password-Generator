@@ -9,3 +9,7 @@ When the user clicks generate password, it goes through a series of prompts and 
 
 ### link to my deployed site
 https://jared-n2.github.io/My-Password-Generator/
+
+### Screenshots
+![screenshot](/Screenshot-9.png)
+![screenshot](/Screenshot-10.png)
